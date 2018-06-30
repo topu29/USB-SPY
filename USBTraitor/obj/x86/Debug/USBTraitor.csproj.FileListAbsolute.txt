@@ -1,0 +1,29 @@
+D:\c#\project\USBTraitor\USBTraitor\bin\Debug\USBTraitor.exe
+D:\c#\project\USBTraitor\USBTraitor\bin\Debug\USBTraitor.pdb
+D:\c#\project\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.LoginForm.resources
+D:\c#\project\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.Properties.Resources.resources
+D:\c#\project\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.csproj.GenerateResource.Cache
+D:\c#\project\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.exe
+D:\c#\project\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.pdb
+D:\c#\project\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.MainForm.resources
+D:\c#\project\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.SelectionForm.resources
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.exe
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.pdb
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder\USBTraitor\USBTraitor\bin\Debug\USBTraitor.exe
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder\USBTraitor\USBTraitor\bin\Debug\USBTraitor.pdb
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.LoginForm.resources
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.Properties.Resources.resources
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.SelectionForm.resources
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.csproj.GenerateResource.Cache
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.csprojResolveAssemblyReference.cache
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.SetPassword.resources
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder (3)\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.exe
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder (3)\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.pdb
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder (3)\USBTraitor\USBTraitor\bin\Debug\USBTraitor.exe
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder (3)\USBTraitor\USBTraitor\bin\Debug\USBTraitor.pdb
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder (3)\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.csprojResolveAssemblyReference.cache
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder (3)\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.LoginForm.resources
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder (3)\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.Properties.Resources.resources
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder (3)\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.SelectionForm.resources
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder (3)\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.SetPassword.resources
+E:\study\study\books\2nd Year 1st Term(2-1)\C#\New folder (3)\USBTraitor\USBTraitor\obj\x86\Debug\USBTraitor.csproj.GenerateResource.Cache
